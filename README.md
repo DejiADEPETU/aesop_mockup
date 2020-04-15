@@ -11,13 +11,16 @@ Victor, Raffel & 'Deji.
 3. Element#
 
 ## Wireframe
-#####Trimmed Down Version
-![1](images/1.jpg)
-![2](images/2.jpg)
-![3](images/3.jpg)
-![4](image/4.jpg)
-![5](images/5.jpg)
-## SCHEDULED (Redefined OBJECTIVES & GOALS)
+
+![1](./images/wireframe/s0.png)
+![2](./images/wireframe/s1.png)
+![3](./images/wireframe/s2.png)
+![4](./images/wireframe/s3.png)
+![5](./images/wireframe/s4.png)
+![6](./images/wireframe/s5.png)
+![7](./images/wireframe/s6.png)
+
+## SCHEDULED (OBJECTIVES & GOALS)
 Wed:
 1. Wireframe        										√ Done
 2. 
