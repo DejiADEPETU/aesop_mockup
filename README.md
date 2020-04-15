@@ -17,7 +17,7 @@ Victor, Raffel & 'Deji.
 ![3](images/3.jpg)
 ![4](image/4.jpg)
 ![5](images/5.jpg)
-## SCHEDULED (Redefined OBJECTIVES & GOALS)
+## SCHEDULED (OBJECTIVES & GOALS)
 Wed:
 1. Wireframe        										√ Done
 2. 
