@@ -1,0 +1,90 @@
+body {
+    margin: 0px;
+}
+
+.header {
+    display: grid;
+    justify-content: center;
+    width: 100%;
+    height: 400px;
+    background-image: url('./images/Aesop-Homepage-Banner.jpg');
+    background-size: cover;
+}
+
+.header-child1-nav {
+    color: #F9E7D4;
+    background-color: none;
+    border-color: none;
+    position: absolute;
+    text-align: center;
+}
+
+.header-child2-body {
+    color: #F9E7D4;
+    background-color: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    height: 300px;
+    padding-left: 20px;
+    border-color: none;
+    position: absolute;
+    text-align: center;
+    font-size: small;
+    font-family: 'Manrope', sans-serif;
+}
+
+.header-child3-login {
+    color: #F9E7D4;
+    background-color: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 95%;
+    border-color: none;
+    position: absolute;
+    text-align: center;
+    font-size: xx-small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul,li {
+    color: #F9E7D4;
+    display: flex;
+    flex-direction: row;
+    justify-items: end;
+    list-style: none;
+    padding: none;
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    text-decoration: none;
+}
+
+span {
+    font-family: 'Lora', serif;
+}
+
+h3{
+    text-align: start;
+}
+.header-text {
+    background-color: #202023;
+    color: white;
+    text-align: center;
+    align-items: center;
+    margin: 0px;
+    padding: 10px 0px 20px 0px;
+    font-size: x-small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* .header-img1 {
+    position: relative;
+    background-image: url(./images/landing_page/Aesop-Homepage-Banner.jpg);
+    background-size: cover;
+    background-position: center;
+} */
