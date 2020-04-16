@@ -1,8 +1,8 @@
 # aesop_mockup
 
 ## Collaborators: 
-Victor, Rafael & 'Deji.
-  https://github.com/mastervic15 |  https://github.com/devrlora  |   https://github.com/DejiADEPETU
+Rafael & 'Deji.
+https://github.com/devrlora  |   https://github.com/DejiADEPETU
 
   
 ## DOM Elements;
@@ -12,7 +12,7 @@ Victor, Rafael & 'Deji.
 
 ## Wireframe
 
-![1](./images/wireframe/s0.png)
+### [1](./images/wireframe/s0.png)
 ![2](./images/wireframe/s1.png)
 ![3](./images/wireframe/s2.png)
 ![4](./images/wireframe/s3.png)
@@ -22,16 +22,19 @@ Victor, Rafael & 'Deji.
 
 ## SCHEDULED (OBJECTIVES & GOALS)
 Wed:
-1. Wireframe        										√ Done
-2. 
-5. MockUp Prototype 					        			√ Done
- 
+1. Fork Assigment Branch, Clone (git pull ) Master
+2. Cloned Master Forked into Branches
+3. Wireframe (created in Master)       										√ Done
+4. MockUp Prototype (created in Master)					        	√ Done
+5. Modified ./src/App.js (created in Branch)   				    √ Done
+6. Header.js created&styled in CSS (created in Branch)  	√ Done
+
 Thur:
-1. Create HTML + CSS Bones    				    			* WorkInProgress(WIP)
-2. Create DOM componenets using REACTjs
-3. Link components & style pages
- 
- 
-Fri:
-1. npm install build
-2. Puch final components. & Test
+1. Mergered Branch to Master  	                          √ Done
+2. Pushed Updates to GitHUB  	                            √ Done
+
+Possible Future Revisions
+1. Create DOM componenets using REACTjs
+2. Link components & style pages
+3. npm install build
+4. Launch
