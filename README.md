@@ -6,7 +6,7 @@ https://github.com/devrlora  |   https://github.com/DejiADEPETU
 
   
 ## DOM Elements;
-1. EHeader
+1. Header
 2. Body
 3. Body/Image Carousel
 4. Footer
