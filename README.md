@@ -1,7 +1,7 @@
 # aesop_mockup
 
 ## Collaborators: 
-Victor, Raffel & 'Deji.
+Victor, Rafael & 'Deji.
   https://github.com/mastervic15 |  https://github.com/devrlora  |   https://github.com/DejiADEPETU
 
   
